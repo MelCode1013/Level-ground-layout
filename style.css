@@ -47,3 +47,32 @@ nav > img {
   margin-left: 45%;
   border-radius: 5px;
 }
+
+main {
+  padding: 5%;
+  text-align: center;
+}
+
+main h1 {
+  text-transform: uppercase;
+  padding: 0px 10px 15px 10px;
+  color: white;
+  font-size: 75px;
+}
+
+main p {
+  color: white;
+  padding: 10px 300px 50px 300px;
+}
+
+img {
+  position: relative;
+  width: 25px;
+  height: 25px;
+  top: 6px;
+  right: 3px;
+}
+
+span {
+  color: white;
+}
