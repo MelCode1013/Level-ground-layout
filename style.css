@@ -76,3 +76,20 @@ img {
 span {
   color: white;
 }
+
+section {
+  color: black;
+  padding: 7%;
+  text-align: center;
+}
+
+section p {
+  color: black;
+  padding: 10px 300px 50px 300px;
+}
+
+section h2 {
+  font-size: 50px;
+  text-transform: uppercase;
+  padding-bottom: 40px;
+}
