@@ -137,3 +137,31 @@ section img {
   height: auto;
   padding-bottom: 15px;
 }
+
+.volunteerBtn {
+  background-color: rgb(240, 248, 255, 0);
+  padding: 10px;
+  text-transform: uppercase;
+  border: 1px solid black;
+  margin-top: 20px;
+}
+
+.volunteerBtn a {
+  color: black;
+  font-weight: bold;
+}
+
+.volunteerWithLG p {
+  width: 100%;
+  margin: 0;
+  padding: 0 300px;
+  text-align: center;
+}
+
+.volunteerWithLG h2 {
+  padding-bottom: 20px;
+}
+
+section.volunteerWithLG {
+  height: 500px;
+}
