@@ -93,3 +93,47 @@ section h2 {
   text-transform: uppercase;
   padding-bottom: 40px;
 }
+
+.sectionTwo {
+  padding: 50px;
+  height: 500px;
+  background-color: rgb(173, 173, 173);
+}
+
+.sectionTwo p {
+  padding: 20px 100px;
+}
+
+.sectionTwo button {
+  background-color: rgb(240, 248, 255, 0);
+  padding: 10px;
+  text-transform: uppercase;
+  border: 1px solid black;
+}
+
+.sectionTwo button a {
+  color: black;
+  font-weight: bold;
+}
+
+h3 {
+  text-transform: uppercase;
+}
+
+.visitTheGym {
+  float: left;
+  width: 50%;
+  padding: 0;
+}
+
+.usVisitYou {
+  float: right;
+  width: 50%;
+  padding: 0;
+}
+
+section img {
+  width: 300px;
+  height: auto;
+  padding-bottom: 15px;
+}
