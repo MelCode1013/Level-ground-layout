@@ -165,3 +165,19 @@ section img {
 section.volunteerWithLG {
   height: 500px;
 }
+
+footer {
+  background-color: rgb(27, 34, 56);
+  clear: both;
+  height: 500px;
+}
+
+address {
+  float: right;
+  color: white;
+  
+}
+
+.companyName {
+  padding-bottom: 10px;
+}
